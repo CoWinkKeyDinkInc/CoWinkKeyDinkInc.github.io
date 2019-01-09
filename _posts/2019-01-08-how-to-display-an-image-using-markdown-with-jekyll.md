@@ -2,7 +2,6 @@
 layout: post
 title:  "How to display an image with Markdown on Jekyll"
 date:   2019-01-08 23:25:00 -0700
-categories: jekyll how to
 ---
 
 ## HERE IS HOW TO DISPLAY AN IMAGE USING MARKDOWN WITH JEKYLL, THE STATIC SITE GENERATOR
