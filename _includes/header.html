@@ -5,9 +5,9 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="index.html">Home {% if page.url == "index.html" %} <span class="sr-only">(current)</span> {% endif %} </a>
-      <a class="nav-item nav-link" href="blog.html">Blog {% if page.url == "/blog.html" %} <span class="sr-only">(current)</span> {% endif %}</a>
-      <a class="nav-item nav-link" href="about.html">About {% if page.url == "/about.html" %} <span class="sr-only">(current)</span> {% endif %}</a>
+      <a class="nav-item nav-link active" href="{{ site.baseurl }}index.html">Home {% if page.url == "index.html" %} <span class="sr-only">(current)</span> {% endif %} </a>
+      <a class="nav-item nav-link" href="{{ site.baseurl }}blog.html">Blog {% if page.url == "/blog.html" %} <span class="sr-only">(current)</span> {% endif %}</a>
+      <a class="nav-item nav-link" href="{{ site.baseurl }}about.html">About {% if page.url == "/about.html" %} <span class="sr-only">(current)</span> {% endif %}</a>
     </div>
   </div>
 </nav>
