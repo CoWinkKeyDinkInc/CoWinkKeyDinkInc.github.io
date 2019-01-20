@@ -6,7 +6,7 @@ title: About
 # Who is Patrick?
 He is this guy!
 
-![a young man with an afro]({{site.url}}/assets/issme.jpg)
+<img src="{{site.url}}/assets/issme.jpg" class="img-fluid" alt="Responsive image">
 
 He lives in Canada, and yearns for finding out how to make this website look less abandoned than it already looks like.
 
