@@ -16,9 +16,9 @@ of [Leon Trotsky][1], a Russian revolutionary who worked side by side with
 Lenin until Stalin kicked him out and got some Spanish guy to brutally murder
 him with an ice pick in Mexico. That's gonna hurt. After starting a strike at
 his dad's workplace, he forces him to go to, uh oh! **PUBLIC SCHOOL.** And he
-has to convince all these **public** kids that they should rise up aganst the
+has to convince all these **public** kids that they should rise up against the
 administration and form a real student union to represent the interests of the
-students. He has to help free **public** kids from their apaphy and turn to
+students. He has to help free **public** kids from their apathy and turn to
 direct action. **IN A PUBLIC SCHOOL.**
 
 To be fair, this is a public Anglophone school, and as a guy who went to a
@@ -26,11 +26,11 @@ Catholic school, public schools are probably the scariest place on the planet.
 One time this girl felt bad for me when I told her I went to a Catholic school,
 but to be fair it's nothing like it is in the movies. The girls just wore
 whatever they wanted! Only one of my teachers became a nun, and I didn't even
-get to see the Pope at my graduation, which was very dissapointing. I was
-thinking about asking him why don't we just call a crusade against paedophiles
+get to see the Pope at my graduation, which was very disappointing. I was
+thinking about asking him why don't we just call a crusade against pedophiles
 or something. Or why he tries to be humble when he literally lives in his own
-cute soverign state with its own secret library nobody can read the books from.
-There's probably proof of aliens, a 367 year old Neapolitian pizza recipe, and a
+cute sovereign state with its own secret library nobody can read the books from.
+There's probably proof of aliens, a 367 year old Neapolitan pizza recipe, and a
 VHS copy of a car safety video I've been trying to look for many years.
 
 <img src="{{site.url}}/assets/thetrotsky.jpg" class="img-fluid" alt="Responsive image">
@@ -42,9 +42,9 @@ Notice how I lost focus back there? That reminds me that this movie has lost
 focus. They don't really do much to explore the wacky concept. I mean it's not
 even deep with any communist themes so you're just left with not much to think
 about. In fact, we don't even know if he's serious or not at the end. He's a
-little nerveus every time he speaks, but the world pulls a bunch of things
+little nervous every time he speaks, but the world pulls a bunch of things
 around him such as meeting his love interest when she is 7 years older than him,
-just like the real Leon Trotsky. Are they coicidences or not? The movie says who
+just like the real Leon Trotsky. Are they coincidences or not? The movie says who
 cares! Whatever, maybe this relationship might be interesting, since it's an
 older woman right? Nah, it just gives up on that too, which is pretty lame since
 it was something not often explored about in movies. She just hates him from how
