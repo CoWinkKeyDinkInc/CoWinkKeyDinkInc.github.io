@@ -35,7 +35,7 @@ VHS copy of a car safety video I've been trying to look for many years.
 
 <img src="{{site.url}}/assets/thetrotsky.jpg" class="img-fluid" alt="Responsive image">
 *From left to right: Generic slightly-chubby red haired man, Trotsky, edgy/cool
-/gangsta/emo/goth/dark/tomboy girl #5819518132**
+/gangsta/emo/goth/dark/tomboy girl #5819518132*
 
 # Underlying features
 Notice how I lost focus back there? That reminds me that this movie has lost

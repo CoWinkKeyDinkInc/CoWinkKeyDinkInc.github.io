@@ -7,6 +7,8 @@ layout: default
 # Welcome!
 This website is...
 
-![under construction][the damn pic]
+![under construction][1]
 
-[the damn pic]: assets/construction.gif
+This is Patrick's own website! 😲😲
+
+[1]: assets/construction.gif
