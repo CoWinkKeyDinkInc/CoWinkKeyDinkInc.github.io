@@ -5,10 +5,11 @@
 layout: default
 ---
 # Welcome!
-This website is...
 
-![under construction][1]
+This is the website of Patrick Rogers!! 😲😲 He has no idea what should be put 
+on an index page, so somebody help him plz.
 
-This is Patrick's own website! 😲😲
+He created a cool website called [thewebzone.net][2]!!
 
 [1]: assets/construction.gif
+[2]: https://thewebzone.net
