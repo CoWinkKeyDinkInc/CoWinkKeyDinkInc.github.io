@@ -5,9 +5,9 @@ layout: default
 <h1>The Blog</h1>
 {% for post in site.posts %}
   <a href="{{ post.url }}">
-    <h2>{{ post.title }}</h2>
-    <p>{{ post.date | date_to_string }}</p>
+    <h2 class="blog-title">{{ post.title }}</h2>
   </a>
+  <p class="blog-date">{{ post.date | date_to_string }}</p>
 {% endfor %}
 
-<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<p class="rss"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
