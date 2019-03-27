@@ -5,9 +5,34 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="{{ site.baseurl }}index.html">Home {% if page.url == "index.html" %} <span class="sr-only">(current)</span> {% endif %} </a>
-      <a class="nav-item nav-link" href="{{ site.baseurl }}blog.html">Blog {% if page.url == "/blog.html" %} <span class="sr-only">(current)</span> {% endif %}</a>
-      <a class="nav-item nav-link" href="{{ site.baseurl }}about.html">About {% if page.url == "/about.html" %} <span class="sr-only">(current)</span> {% endif %}</a>
+      <!-- if the url of the page is index, insert the active class -->
+      <a class="nav-item nav-link
+        {% if page.url == "/" %}
+          active
+        {% endif %}
+        " href="{{ site.baseurl }}index.html">Home
+      </a>
+      <a class="nav-item nav-link
+        {% if page.url == "/blog.html" %}
+          active
+        {% endif %}
+        " href="{{ site.baseurl }}blog.html">Blog
+      </a>
+      <a class="nav-item nav-link
+        {% if page.url == "/about.html" %}
+          active
+        {% endif %}
+        " href="{{ site.baseurl }}about.html">About
+      </a>
     </div>
   </div>
 </nav>
+
+<!--
+
+{% if page.url == "/index.html" %}
+<span class="sr-only">(current)</span>
+{% endif %}
+
+I have no idea what the point of this class does in Bootstrap.
+  -->
