@@ -11,7 +11,7 @@ He is this guy!
 He lives in Canada, and yearns for finding out how to make this website look
 less abandoned than it already looks like.
 
-Send him a message saying hello, [right here](mailto:patrickrogers@national.shitposting.agency)
+Send him a message saying hello, [right here](mailto:patrick@patrickrogers.me)
 If you want to talk to me using the magic of encrypted email, you can [get my public PGP key here](/assets/patricksPublicKey.asc)
 
 ## What's a Public PGP Key?
