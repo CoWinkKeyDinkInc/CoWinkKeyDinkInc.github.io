@@ -28,4 +28,5 @@ Don't worry I'm not some hardcore privacy knob, but I'm just sayin'.
 Yeah sure.
  - [Instagram](https://instagram.com/patricktherogers)
  - [Twitter](https://twitter.com/cowinkkeydink)
+ - <a rel="me" href="https://mst.thewebzone.net/@patrick">Mastodon</a>
  - [GitHub](https://github.com/cowinkkeydinkinc)
