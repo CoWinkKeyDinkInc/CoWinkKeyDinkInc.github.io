@@ -6,10 +6,12 @@ layout: default
 ---
 # Welcome!
 
-This is the website of Patrick Rogers!! 😲😲 He has no idea what should be put 
+This is the website of Patrick Rogers!! 😲😲 He has no idea what should be put
 on an index page, so somebody help him plz.
 
 He created a cool website called [thewebzone.net][2]!!
 
 [1]: assets/construction.gif
 [2]: https://thewebzone.net
+
+<a rel="me" class="hidden" href="https://mst.thewebzone.net/@patrick">Mastodon</a>
