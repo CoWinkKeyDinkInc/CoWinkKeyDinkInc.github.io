@@ -14,4 +14,4 @@ He created a cool website called [thewebzone.net][2]!!
 [1]: assets/construction.gif
 [2]: https://thewebzone.net
 
-<a rel="me" class="hidden" href="https://mst.thewebzone.net/@patrick">Mastodon</a>
+<p><a rel="me" class="hidden" href="https://mst.thewebzone.net/@patrick">Mastodon</a></p>
