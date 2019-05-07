@@ -10,7 +10,7 @@ so I am going to tell you them here.
 ## Hardware
   - **CPU:** Ryzen 5 2600X
   - **GPU:** AMD Radeon RX580
-  - **Motherboard:** ASUS B350 pro-vdh
+  - **Motherboard:** MSI B350M PRO-VDH
   - **Case:** Corsair Carbide Air 240
   - EVGA 500W Bronze power supply
   - 8GB [dedotated wam][1]
