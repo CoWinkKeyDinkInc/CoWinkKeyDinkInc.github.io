@@ -11,7 +11,7 @@ file share the same name to ensure that the subtitles will be used.
 
 The first thing you have to do is to check which track the subtitles are on, this would 
 usually be track 2, but might be different depending on other audio/subtitle tracks. In VLC 
-go to Tools > Codec Information and check for the subtitle you want to extract. In this case, 
+go to `Tools > Codec Information` and check for the subtitle you want to extract. In this case, 
 we are going to extract "track 2". Install `mkvtoolnix` (which is the package name on Ubuntu) 
 and from the terminal use this command:
 
