@@ -20,11 +20,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('thewebzone.net', 'https://thewebzone.net'))
+LINKS = (('thewebzone.net', 'https://thewebzone.net'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter (@CoWinkKeyDink', 'https://twitter.com/cowinkkeydink'),
+          ('Another social link', '#'))
+
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing

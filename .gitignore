@@ -1,3 +1,6 @@
 #ignore the _site folder
 _site
 Gemfile.lock
+
+#ignore output folder
+output/
