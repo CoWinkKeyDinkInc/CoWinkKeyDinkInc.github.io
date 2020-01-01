@@ -23,9 +23,8 @@ AUTHOR_FEED_RSS = None
 LINKS = (('thewebzone.net', 'https://thewebzone.net'))
 
 # Social widget
-SOCIAL = (('@patrick@mst.thewebzone.net', 'https://mst.thewebzone.net/@patrick'),
-          ('@CoWinkKeyDink', 'https://twitter.com/CoWinkKeyDink'))
-
+SOCIAL = (('You can add links in your config file', '#'),
+          ('Another social link', '#'),)
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing

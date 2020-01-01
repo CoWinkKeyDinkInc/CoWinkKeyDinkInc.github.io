@@ -6,6 +6,4 @@ Slug: my-super-post
 Authors: Patrick Rogers
 Summary: Short version for index and feeds
 
-This a dank static generation program, WAY less headaches than Jekyll.
-
-fuck.
+This a dank static generation program, WAY less headaches than Jekyll. what the fuck.
